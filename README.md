@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Szymon Gałek</h1>
 <h3 align="center">A young, ambitious electronics engineer and programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3625204-Programmer-s-Life">
+<img align="center" alt="Coding" width="400" src="https://dribbble.com/shots/3625204-Programmer-s-Life">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgalek&label=Profile%20views&color=0e75b6&style=flat" alt="sgalek" /> </p>
 
