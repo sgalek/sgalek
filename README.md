@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Szymon Gałek</h1>
 <h3 align="center">A young, ambitious electronics engineer and programmer</h3>
-<img align="center" alt="Coding" width="200" src="https://i.gifer.com/5eKX.gif">
+
 
 
 
