@@ -2,7 +2,7 @@
 <h3 align="center">A young, ambitious electronics engineer and programmer</h3>
 <img align="center" alt="Coding" width="200" src="https://i.gifer.com/5eKX.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sgalek&label=Profile%20views&color=0e75b6&style=flat" alt="sgalek" /> </p>
+
 
 - 🌱 I’m currently learning **Front-end, Neural Networks, Back-end**
 
